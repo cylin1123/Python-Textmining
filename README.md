@@ -1,2 +1,2 @@
-# Python-Textmining
-Python-Textmining
+# 自然語言文字分析
+
